@@ -1,1 +1,0 @@
-# vouched-react-example
